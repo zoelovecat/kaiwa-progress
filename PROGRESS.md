@@ -4,6 +4,19 @@ Theo dõi tiến độ luyện hội thoại tiếng Nhật. Mục mới nhất 
 
 ## Log
 
+### 2026-09-02 — 日常生活 (Đời sống thường ngày)
+
+| Câu gốc | Câu hay hơn | Cách đọc | Nghĩa |
+|---|---|---|---|
+| ぼく大阪へ行きました | ぼくは大阪へ行きました | - | Bỏ trợ từ chủ đề「は」nghe hơi cộc/khó hiểu, dù trong văn nói suồng sã đôi khi được lược |
+| 旅行のためですね | 大阪に旅行に行ってきました | いってきました (itte kimashita) | 「〜のため」diễn tả mục đích, dùng ở đây không tự nhiên; 「行ってきました」thể hiện sắc thái "đi rồi quay về" hợp với kể chuyện đã qua |
+| とってもあつかったり、疲れたり、でも、たのしかった | とても暑くて疲れましたが、楽しかったです | あつくて (atsukute) | Khi liệt kê trạng thái nối tiếp nhau nên dùng thể て (nguyên nhân-kết quả) thay vì たり〜たり (vốn dùng cho liệt kê ví dụ tiêu biểu); nên thống nhất thể lịch sự (です/ます) ở cuối câu |
+| たこ焼きたべてみてようにしました | たこ焼きを食べてみようとしたんですが | たべようとした (tabeyou to shita) | 「〜（よ）うとする」sau thể ý chí diễn tả "định/thử làm nhưng..."; câu gốc chia sai hoàn toàn dạng động từ |
+| 今回ぜひたべます | 次回はぜひ食べたいです | じかい (jikai) | 「今回」= lần này (đã xảy ra), muốn nói "lần tới" phải dùng 「次回」 |
+| たくさんのところいきました | いろんな場所に行きました／あちこち回りました | - | Thiếu trợ từ「に」sau địa điểm; 「たくさんのところ」hơi cứng, 「いろんな場所」「あちこち」tự nhiên hơn |
+| 大阪を言ったら | 大阪と言えば／大阪と言ったら | おおさかといえば (Ōsaka to ieba) | Mẫu N2「〜と言えば／と言ったら」(nói đến X thì...) dùng trợ từ「と」chứ không phải「を」 |
+| ５５１ほらい | 551蓬莱 | ごーごーいちほうらい (gō-gō-ichi hōrai) | Tên thương hiệu bánh bao (豚まん) nổi tiếng Osaka; đọc đúng là「ほうらい」(hōrai) chứ không phải「ほらい」|
+
 ### 2026-09-02 — 面接 (Phỏng vấn)
 
 - **Ngữ vựng/cách nói N2 đã dùng:** 「その内訳は」（thay vì nói vòng）, 「上流工程」（chỉ công đoạn phân tích/thiết kế trước khi code）, 「幅広く経験する」
