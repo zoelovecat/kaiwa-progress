@@ -32,7 +32,7 @@ File log: `PROGRESS.md` (tạo mới nếu chưa có, dùng template ở cuối 
 
 1. Nếu người dùng chưa nói chủ đề, hỏi ngắn gọn họ muốn luyện chủ đề gì (công việc, tin tức, phỏng vấn, du lịch, đời sống hàng ngày...). Nếu họ đã nêu chủ đề trong args, dùng luôn, không hỏi lại.
 2. Đóng vai đối tác hội thoại người Nhật, trò chuyện hoàn toàn bằng tiếng Nhật ở độ khó N2 (ngữ pháp, từ vựng, kanji tương ứng N2, tốc độ tự nhiên hơn N3). Tự nhiên sử dụng filler (#10) và liên từ nối câu (#11) trong lời thoại của chính mình để người dùng được "tắm" trong văn phong tự nhiên, không chỉ học qua giải thích.
-3. Trước khi bắt đầu (hoặc ngay đầu buổi), đọc nhanh `PROGRESS.md` nếu đã có, để biết 2-3 trụ cột nào người dùng còn yếu/lặp lại lỗi nhiều — ưu tiên gài và góp ý các trụ cột đó trong buổi này.
+3. Trước khi bắt đầu (hoặc ngay đầu buổi), đọc nhanh `PROGRESS.md` nếu đã có (chỉ file này, không đọc `RENSHUU_PROGRESS.md` — hai skill theo dõi tiến độ riêng để dễ so sánh), để biết 2-3 trụ cột nào người dùng còn yếu/lặp lại lỗi nhiều trong hội thoại — ưu tiên gài và góp ý các trụ cột đó trong buổi này.
 4. Trong lúc hội thoại, ngay sau **mỗi lần người dùng trả lời/viết một câu** mà có điểm đáng góp ý — dùng sai, hoặc dùng được nhưng có từ/mẫu câu tự nhiên hơn/cao cấp hơn (N2), soi theo khung 12 trụ cột ở trên (không chỉ là "sai ngữ pháp") — làm ngay, không đợi người dùng yêu cầu và không đợi đến cuối buổi:
    a. Chỉ ra ngay trong hội thoại (ngắn gọn, không phá mạch hội thoại quá nhiều).
    b. **Ghi ngay vào `PROGRESS.md`** (dùng Edit/Write ngay lập tức, không gộp lại chờ cuối buổi):
@@ -45,7 +45,7 @@ File log: `PROGRESS.md` (tạo mới nếu chưa có, dùng template ở cuối 
 
 ## Chế độ 2 — Xem lại note (khi args chứa "progress" hoặc người dùng muốn xem lại các từ/câu đã note)
 
-1. Đọc toàn bộ `PROGRESS.md`.
+1. Đọc toàn bộ `PROGRESS.md` (chỉ tiến độ luyện hội thoại — xem tiến độ luyện điền chỗ trống thì dùng `/renshuu progress` đọc `RENSHUU_PROGRESS.md` riêng).
 2. Hiển thị lại danh sách các điểm đã note, gom theo **Trụ cột** (trong khung 12 trụ cột ở trên) để người dùng thấy rõ mình đang yếu ở đâu nhất (trụ cột xuất hiện nhiều lần = điểm yếu cần chú ý ưu tiên ở buổi sau); trong mỗi trụ cột có thể gom thêm theo từ/mẫu câu lặp lại.
 3. Không cần sửa file trong chế độ này, chỉ đọc và hiển thị lại.
 
